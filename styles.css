@@ -1,0 +1,45 @@
+body{
+    background-color: beige;
+    padding: 0%;
+    margin: 0%;
+}
+.nav{
+    background-color: #202020;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+
+    color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+  
+.img{
+   animation: infinite;
+  width: 50%;
+  height: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.image{
+    text-align: center;
+    overflow: hidden;
+}
+.para{
+    margin: 10%;
+    margin-top: auto;
+
+}
+.para {
+    line-height: 1.8;
+  }
+.fa {  
+    font-size: 50px;  
+    cursor: pointer;  
+    background-color: beige;
+    user-select: none;  
+  }  
+  .fa:hover {  
+    color: darkblue;  
+  }  
